@@ -1,4 +1,4 @@
-# Elementor Carousel Center Mode
+# Elementor Carousel Center Mode and Extra Features
 
 This script integrates a Swiper slider within an Elementor carousel. It allows dynamic updates to the Swiper instance, including settings such as `centeredSlides` and `slidesPerView`. The slider can loop and uses the Swiper.js library for smooth functionality.
 
